@@ -20,7 +20,7 @@ const nombre1   = 'Melissa',
       pais1     = 'Honduras';
 
 const fher = {
-    nombre:   'Fernando',
+    nombre:   'Emilio',
     apellido: 'Herrera',
     pais:     'Costa Rica'
 }      

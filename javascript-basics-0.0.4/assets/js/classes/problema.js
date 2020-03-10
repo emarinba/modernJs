@@ -1,7 +1,7 @@
 
 
 const fher = {
-    nombre: 'Fernando',
+    nombre: 'Emilio',
     edad: 30,
     imprimir() {
         console.log(`Nombre: ${ this.nombre } - edad: ${ this.edad }`);    

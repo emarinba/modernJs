@@ -12,7 +12,7 @@ console.log( videoJuegos[0] );
 let arregloCosas = [
     true,
     123,
-    'Fernando',
+    'Emilio',
     1 + 2,
     function(){},
     ()=>{},

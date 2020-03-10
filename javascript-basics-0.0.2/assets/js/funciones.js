@@ -22,9 +22,9 @@ const saludarFlecha2 = ( nombre ) => {
 
 
 
-const retornoDeSaludar = saludar( 'Fernando', 40, true, 'Costa Rica' ); // 1
+const retornoDeSaludar = saludar( 'Emilio', 40, true, 'Costa Rica' ); // 1
 
-// saludar2( 'Fernando' );
+// saludar2( 'Emilio' );
 
 // saludarFlecha();
 // saludarFlecha2('Melissa');

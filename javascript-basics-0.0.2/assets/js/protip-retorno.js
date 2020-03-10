@@ -6,7 +6,7 @@ const crearPersona = ( nombre, apellido ) => ({ nombre,apellido });
 
 
 
-const persona = crearPersona( 'Fernando', 'Herrera' );
+const persona = crearPersona( 'Emilio', 'Herrera' );
 console.log( persona );
 
 
@@ -19,11 +19,11 @@ const imprimeArgumentos2 = ( edad, ...args ) => {
     return args;
 }
 
-const [ casado, vivo, nombre, saludo ] = imprimeArgumentos2(10, true, false, 'Fernando', 'Hola');
+const [ casado, vivo, nombre, saludo ] = imprimeArgumentos2(10, true, false, 'Emilio', 'Hola');
 console.log({ casado, vivo, nombre, saludo });
 
 
-const { apellido: nuevoApellido } = crearPersona( 'Fernando', 'Herrera' );
+const { apellido: nuevoApellido } = crearPersona( 'Emilio', 'Herrera' );
 console.log({ nuevoApellido });
 
 
