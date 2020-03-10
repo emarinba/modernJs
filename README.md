@@ -1,5 +1,5 @@
-## APUNTES CURSO JS
-- En javascript todos los tipos primitivos son pasados por valor y todos los Objetos son pasados por preferencia
+#### APUNTES CURSO JS
+- En javascript todos los tipos primitivos son pasados por valor y todos los Objetos son pasados por referencia
 
 - Destructuracion de argumentos.
 Spread : https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Sintaxis_Spread
